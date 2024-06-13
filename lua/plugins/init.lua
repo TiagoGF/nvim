@@ -30,7 +30,7 @@ return {
       ensure_installed = {
         "lua-language-server", "stylua",
         "html-lsp", "css-lsp", "prettier",
-        "dprint", "markdown-toc"
+        "dprint", "markdown-toc", "pyright"
       },
     },
   },
