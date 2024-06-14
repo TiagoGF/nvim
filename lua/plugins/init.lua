@@ -30,7 +30,9 @@ return {
       ensure_installed = {
         "lua-language-server", "stylua",
         "html-lsp", "css-lsp", "prettier",
-        "dprint", "markdown-toc", "pyright"
+        "dprint", "markdown-toc", "pyright",
+        "docker-compose-language-service",
+        "dockerfile-language-server"
       },
     },
   },
